@@ -1,5 +1,2 @@
-��#� �h�o�m�e�D�e�c�o�
-�
-�
-
+Home Deco website
 Live preview: https://riadhidir.github.io/homeDeco/index.html
